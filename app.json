@@ -25,7 +25,7 @@
     {"plan": "cloudinary:starter"},
     {"plan": "cloudamqp:tiger"},
     {"plan": "pusher:sandbox"},
-    {"plan": "logdna:free"}
+    {"plan": "logdna:quaco"}
   ],
   "buildpacks": [
     {
