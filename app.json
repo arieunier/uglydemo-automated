@@ -12,7 +12,7 @@
       "size": "standard-1x"
     },
     "worker-rabbitmq" : {
-      "quantity": 0,
+      "quantity": 2,
       "size": "standard-2x"
     }
   },
