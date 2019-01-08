@@ -19,7 +19,7 @@
   "addons": [
     {"plan": "heroku-postgresql:hobby-dev"}, 
     {"plan": "heroku-redis:hobby-dev"},
-    {"plan": "herokuconnect:free"},
+    {"plan": "herokuconnect:demo"},
     {"plan": "newrelic:free"},
     {"plan": "bucketeer:hobbyist"},
     {"plan": "cloudinary:starter"},
