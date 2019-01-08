@@ -1,0 +1,57 @@
+{'2018-12-14 08:40:02.495','INFO',20300,rediscache.py:20-<module>:-->2018-12-14 08:40:02.495120  - Initialization done Redis}
+{'2018-12-14 08:40:02.542','INFO',20300,postgres.py:26-<module>:-->2018-12-14 08:40:02.542767 - Initialization done Postgresql }
+{'2018-12-14 08:40:03.510','INFO',20300,rabbitmq.py:43-<module>:-->2018-12-14 08:40:03.510426  - Initialization done RabbitMq}
+{'2018-12-14 08:40:03.604','INFO',20300,photo.py:21-<module>:-->Upload In Redis = False}
+{'2018-12-14 08:40:04.157','INFO',20303,rediscache.py:20-<module>:-->2018-12-14 08:40:04.157678  - Initialization done Redis}
+{'2018-12-14 08:40:04.176','INFO',20303,postgres.py:26-<module>:-->2018-12-14 08:40:04.176555 - Initialization done Postgresql }
+{'2018-12-14 08:40:04.643','INFO',20303,rabbitmq.py:43-<module>:-->2018-12-14 08:40:04.643374  - Initialization done RabbitMq}
+{'2018-12-14 08:40:04.661','INFO',20303,photo.py:21-<module>:-->Upload In Redis = False}
+{'2018-12-14 08:40:14.935','INFO',20303,postgres.py:260-__checkHerokuLogsTable:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:40:15.674','INFO',20303,postgres.py:267-__checkHerokuLogsTable:-->True}
+{'2018-12-14 08:40:16.018','INFO',20303,root.py:137-root:-->Data not found in cache}
+{'2018-12-14 08:43:29.561','INFO',20303,root.py:137-root:-->Data not found in cache}
+{'2018-12-14 08:43:34.834','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:43:34.854','INFO',20303,postgres.py:94-__getMatchs:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:43:40.857','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:43:40.878','INFO',20303,postgres.py:98-__getMatchs:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:21.578','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:44:21.599','INFO',20303,postgres.py:98-__getMatchs:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:28.479','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:44:28.500','INFO',20303,postgres.py:98-__getMatchs:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:39.481','INFO',20303,root.py:137-root:-->Data not found in cache}
+{'2018-12-14 08:44:41.601','INFO',20303,root.py:144-root:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:43.727','INFO',20303,postgres.py:180-__getTables:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:44:45.782','INFO',20303,root.py:144-root:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:46.927','INFO',20303,photo.py:287-root_photo:-->Data not found in cache}
+{'2018-12-14 08:44:48.942','INFO',20303,root.py:144-root:-->Data found in redis, using it directly}
+{'2018-12-14 08:44:50.368','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:44:50.389','INFO',20303,postgres.py:94-__getMatchs:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:44:57.953','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:44:57.973','INFO',20303,postgres.py:98-__getMatchs:-->Data found in redis, using it directly}
+{'2018-12-14 08:48:01.985','INFO',20303,votes.py:152-bet_vote:-->Data not found in cache}
+{'2018-12-14 08:48:02.005','INFO',20303,postgres.py:94-__getMatchs:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:48:03.836','INFO',20303,votes.py:65-bets_bygameactivity__c:-->Data not found in cache}
+{'2018-12-14 08:48:03.856','INFO',20303,postgres.py:34-__getGameActivityById:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:48:03.978','INFO',20303,postgres.py:73-__getMatchsByGameActivityId:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:48:06.469','INFO',20303,votes.py:27-votes_placevote:-->Data not found in cache}
+{'2018-12-14 08:48:06.489','INFO',20303,postgres.py:128-__getMatchById:-->Data not found in cache : heroku log data not known}
+{'2018-12-14 08:48:09.250','INFO',20303,votes.py:144-bet_vote:-->##### vote taken into account ####}
+{'2018-12-14 08:48:09.424','INFO',20303,votes.py:65-bets_bygameactivity__c:-->Data not found in cache}
+{'2018-12-14 08:48:09.445','INFO',20303,postgres.py:45-__getGameActivityById:-->Data found in redis, using it directly}
+{'2018-12-14 08:48:09.465','INFO',20303,postgres.py:77-__getMatchsByGameActivityId:-->Data found in redis, using it directly}
+{'2018-12-14 08:56:05.209','INFO',21126,rediscache.py:20-<module>:-->2018-12-14 08:56:05.209524  - Initialization done Redis}
+{'2018-12-14 08:56:05.231','INFO',21126,postgres.py:26-<module>:-->2018-12-14 08:56:05.231418 - Initialization done Postgresql }
+{'2018-12-14 08:56:05.945','INFO',21126,rabbitmq.py:43-<module>:-->2018-12-14 08:56:05.945339  - Initialization done RabbitMq}
+{'2018-12-14 08:56:05.964','INFO',21126,photo.py:21-<module>:-->Upload In Redis = False}
+{'2018-12-14 08:56:08.819','INFO',21159,rediscache.py:20-<module>:-->2018-12-14 08:56:08.819815  - Initialization done Redis}
+{'2018-12-14 08:56:08.847','INFO',21159,postgres.py:26-<module>:-->2018-12-14 08:56:08.847888 - Initialization done Postgresql }
+{'2018-12-14 08:56:09.411','INFO',21159,rabbitmq.py:43-<module>:-->2018-12-14 08:56:09.411709  - Initialization done RabbitMq}
+{'2018-12-14 08:56:09.428','INFO',21159,photo.py:21-<module>:-->Upload In Redis = False}
+{'2018-12-14 08:56:48.289','INFO',21222,rediscache.py:20-<module>:-->2018-12-14 08:56:48.289585  - Initialization done Redis}
+{'2018-12-14 08:56:48.311','INFO',21222,postgres.py:26-<module>:-->2018-12-14 08:56:48.311143 - Initialization done Postgresql }
+{'2018-12-14 08:56:48.835','INFO',21222,rabbitmq.py:43-<module>:-->2018-12-14 08:56:48.835142  - Initialization done RabbitMq}
+{'2018-12-14 08:56:48.846','INFO',21222,photo.py:21-<module>:-->Upload In Redis = False}
+{'2018-12-14 08:56:56.869','INFO',21246,rediscache.py:20-<module>:-->2018-12-14 08:56:56.869517  - Initialization done Redis}
+{'2018-12-14 08:56:56.892','INFO',21246,postgres.py:26-<module>:-->2018-12-14 08:56:56.892208 - Initialization done Postgresql }
+{'2018-12-14 08:56:57.400','INFO',21246,rabbitmq.py:43-<module>:-->2018-12-14 08:56:57.400834  - Initialization done RabbitMq}
+{'2018-12-14 08:56:57.412','INFO',21246,photo.py:21-<module>:-->Upload In Redis = False}
