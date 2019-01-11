@@ -22,7 +22,7 @@
     {"plan": "newrelic:wayne"},
     {"plan": "bucketeer:hobbyist"},
     {"plan": "cloudinary:starter"},
-    {"plan": "cloudamqp:tiger"},
+    {"plan": "cloudamqp:lemur"},
     {"plan": "pusher:sandbox"},
     {"plan": "logdna:quaco"}
   ],
