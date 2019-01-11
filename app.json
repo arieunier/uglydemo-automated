@@ -41,6 +41,10 @@
       "STAGING_DATABASE_URL": {
         "Description" : "staging database - for review apps",
         "required" : false
+      },
+      "CF_KEY": {
+        "Description" : "Image Detection Cloud Foundry license key",
+        "Required" : true
       }
   },
   "environments": {
