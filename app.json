@@ -19,12 +19,12 @@
   "addons": [
     {"plan": "heroku-postgresql:hobby-dev"}, 
     {"plan": "heroku-redis:hobby-dev"},
-    {"plan": "newrelic:wayne"},
+    {"plan": "newrelic:hawke"},
     {"plan": "bucketeer:hobbyist"},
     {"plan": "cloudinary:starter"},
     {"plan": "cloudamqp:lemur"},
     {"plan": "pusher:sandbox"},
-    {"plan": "logdna:quaco"}
+    {"plan": "logdna:zepto"}
   ],
   "buildpacks": [
     {
